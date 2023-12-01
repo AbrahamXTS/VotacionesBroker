@@ -1,0 +1,15 @@
+
+k
+java:S1192"IDefine a constant instead of duplicating this literal "servicio" 4 times.(Î§şšÿÿÿÿÿ8Ñ¨Éìº1
+d
+java:S1192"GDefine a constant instead of duplicating this literal "valor1" 3 times.(©äÖ¼8Ö¨Éìº1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ûİû—8Ü¨Éìº1
+g
+java:S1128"JRemove this unused import 'com.bichotitas.votacionesmvc.utils.FileReader'.(ùœâë8ÜŒÊìº1
+O
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8ÜŒÊìº1
+Q
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8ÜŒÊìº1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ÜŒÊìº1

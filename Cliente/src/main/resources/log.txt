@@ -1,0 +1,536 @@
+Main - Initializing the main view - 8-10-2023 - 2:5:42
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:5:42
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:5:42
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:5:42
+Main - Initializing the main view - 8-10-2023 - 2:8:16
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:8:16
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:8:16
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:8:16
+Main - Initializing the main view - 8-10-2023 - 2:13:16
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:13:16
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:13:16
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:13:16
+Main - Initializing the main view - 8-10-2023 - 2:19:48
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:19:48
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:19:48
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:19:48
+Main - Initializing the main view - 8-10-2023 - 2:26:5
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:26:5
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:26:5
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:26:5
+Main - Initializing the main view - 8-10-2023 - 2:29:27
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:29:27
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:29:27
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:29:27
+Main - Initializing the main view - 8-10-2023 - 2:30:11
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:30:11
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:30:11
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:30:11
+Main - Initializing the main view - 8-10-2023 - 2:38:54
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:38:54
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:38:54
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:38:54
+Main - Initializing the main view - 8-10-2023 - 2:42:49
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:42:49
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:42:49
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:42:49
+Main - Initializing the main view - 8-10-2023 - 2:45:1
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:45:1
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:45:1
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:45:1
+Main - Initializing the main view - 8-10-2023 - 2:51:31
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:51:31
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:51:31
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:51:31
+BrokerResultsRepository - Getting votes for null - 8-10-2023 - 2:51:31
+Main - Initializing the main view - 8-10-2023 - 2:57:27
+VotesCountView - Initializing the votes count view - 8-10-2023 - 2:57:27
+VotesCountView - Updating the votes count view - 8-10-2023 - 2:57:27
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 2:57:27
+BrokerResultsRepository - Getting votes for null - 8-10-2023 - 2:57:27
+Main - Initializing the main view - 8-10-2023 - 3:2:37
+VotesCountView - Initializing the votes count view - 8-10-2023 - 3:2:37
+VotesCountView - Updating the votes count view - 8-10-2023 - 3:2:37
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:2:37
+BrokerResultsRepository - Getting votes for null - 8-10-2023 - 3:2:37
+Main - Initializing the main view - 8-10-2023 - 3:4:48
+VotesCountView - Initializing the votes count view - 8-10-2023 - 3:4:48
+VotesCountView - Updating the votes count view - 8-10-2023 - 3:4:48
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:4:48
+Main - Initializing the main view - 8-10-2023 - 3:11:28
+VotesCountView - Initializing the votes count view - 8-10-2023 - 3:11:28
+VotesCountView - Updating the votes count view - 8-10-2023 - 3:11:28
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:11:28
+Main - Initializing the main view - 8-10-2023 - 3:17:53
+VotesCountView - Initializing the votes count view - 8-10-2023 - 3:17:53
+VotesCountView - Updating the votes count view - 8-10-2023 - 3:17:53
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:17:53
+Main - Initializing the main view - 8-10-2023 - 3:30:11
+VotesCountView - Initializing the votes count view - 8-10-2023 - 3:30:11
+VotesCountView - Updating the votes count view - 8-10-2023 - 3:30:11
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:30:11
+Main - Initializing the main view - 8-10-2023 - 3:33:20
+VotesCountView - Initializing the votes count view - 8-10-2023 - 3:33:20
+VotesCountView - Updating the votes count view - 8-10-2023 - 3:33:20
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:33:20
+Main - Initializing the main view - 8-10-2023 - 3:35:23
+VotesCountView - Initializing the votes count view - 8-10-2023 - 3:35:23
+VotesCountView - Updating the votes count view - 8-10-2023 - 3:35:23
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 3:35:23
+VotesCountView - Opening the bar chart window - 8-10-2023 - 3:35:23
+BarChartView - Initializing the bar chart view - 8-10-2023 - 3:35:23
+BarChartView - Updating the bar chart view - 8-10-2023 - 3:35:23
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 3:35:23
+VotesCountView - Opening the pie chart window - 8-10-2023 - 3:35:23
+PieChartView - Initializing the bar chart view - 8-10-2023 - 3:35:23
+PieChartView - Updating the pie chart view - 8-10-2023 - 3:35:23
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 3:35:23
+VotesController - Vote saved - 8-10-2023 - 3:35:23
+VotesCountView - Updating the votes count view - 8-10-2023 - 3:35:23
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 3:35:23
+BarChartView - Updating the bar chart view - 8-10-2023 - 3:35:23
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 3:35:23
+PieChartView - Updating the pie chart view - 8-10-2023 - 3:35:23
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 3:35:23
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 3:35:23
+Main - Initializing the main view - 8-10-2023 - 3:51:23
+VotesCountView - Initializing the votes count view - 8-10-2023 - 3:51:23
+VotesCountView - Updating the votes count view - 8-10-2023 - 3:51:23
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:51:23
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 3:51:23
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 3:51:23
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 3:51:23
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 3:51:23
+VotesController - Vote saved - 8-10-2023 - 3:51:23
+VotesCountView - Updating the votes count view - 8-10-2023 - 3:51:23
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:51:23
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 3:51:23
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 3:51:23
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 3:51:23
+VotesCountView - Opening the bar chart window - 8-10-2023 - 3:51:23
+BarChartView - Initializing the bar chart view - 8-10-2023 - 3:51:23
+BarChartView - Updating the bar chart view - 8-10-2023 - 3:51:23
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:51:23
+VotesCountView - Opening the bar chart window - 8-10-2023 - 3:51:23
+BarChartView - Initializing the bar chart view - 8-10-2023 - 3:51:23
+BarChartView - Updating the bar chart view - 8-10-2023 - 3:51:23
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 3:51:23
+Main - Initializing the main view - 8-10-2023 - 4:0:17
+VotesCountView - Initializing the votes count view - 8-10-2023 - 4:0:17
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:0:17
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:0:17
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:0:17
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:0:17
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:0:17
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 4:0:17
+VotesController - Vote saved - 8-10-2023 - 4:0:17
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:0:17
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:0:17
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:0:17
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:0:17
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:0:17
+Main - Initializing the main view - 8-10-2023 - 4:5:3
+VotesCountView - Initializing the votes count view - 8-10-2023 - 4:5:3
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:5:3
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:5:3
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:5:3
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:5:3
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:5:3
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 4:5:3
+VotesController - Vote saved - 8-10-2023 - 4:5:3
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:5:3
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:5:3
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:5:3
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:5:3
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:5:3
+Main - Initializing the main view - 8-10-2023 - 4:6:33
+VotesCountView - Initializing the votes count view - 8-10-2023 - 4:6:33
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:6:33
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 4:6:33
+VotesController - Vote saved - 8-10-2023 - 4:6:33
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:6:33
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Saving vote for Manzana - 8-10-2023 - 4:6:33
+VotesController - Vote saved - 8-10-2023 - 4:6:33
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:6:33
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Saving vote for Manzana - 8-10-2023 - 4:6:33
+VotesController - Vote saved - 8-10-2023 - 4:6:33
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:6:33
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 4:6:33
+VotesController - Vote saved - 8-10-2023 - 4:6:33
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:6:33
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 4:6:33
+VotesController - Vote saved - 8-10-2023 - 4:6:33
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:6:33
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 4:6:33
+VotesController - Vote saved - 8-10-2023 - 4:6:33
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:6:33
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:6:33
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:6:33
+Main - Initializing the main view - 8-10-2023 - 4:28:40
+VotesCountView - Initializing the votes count view - 8-10-2023 - 4:28:40
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:28:40
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:28:40
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:28:40
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:28:40
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:28:40
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 4:28:40
+VotesController - Vote saved - 8-10-2023 - 4:28:40
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:28:40
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:28:40
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:28:40
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:28:40
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:28:40
+Main - Initializing the main view - 8-10-2023 - 4:31:12
+VotesCountView - Initializing the votes count view - 8-10-2023 - 4:31:12
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:31:12
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:31:12
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:31:12
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:31:12
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:31:12
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 4:31:12
+VotesController - Vote saved - 8-10-2023 - 4:31:12
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:31:12
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:31:12
+Main - Initializing the main view - 8-10-2023 - 4:35:5
+VotesCountView - Initializing the votes count view - 8-10-2023 - 4:35:5
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:35:5
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:35:5
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:35:5
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:35:5
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:35:5
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 4:35:5
+VotesController - Vote saved - 8-10-2023 - 4:35:5
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:35:5
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:35:5
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:35:5
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:35:5
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:35:5
+VotesCountView - Opening the bar chart window - 8-10-2023 - 4:35:5
+BarChartView - Initializing the bar chart view - 8-10-2023 - 4:35:5
+BarChartView - Updating the bar chart view - 8-10-2023 - 4:35:5
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:35:5
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:35:5
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:35:5
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:35:5
+Main - Initializing the main view - 8-10-2023 - 4:40:25
+VotesCountView - Initializing the votes count view - 8-10-2023 - 4:40:25
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:40:25
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Saving vote for Sandia - 8-10-2023 - 4:40:25
+VotesController - Vote saved - 8-10-2023 - 4:40:25
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:40:25
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:40:25
+VotesCountView - Opening the bar chart window - 8-10-2023 - 4:40:25
+BarChartView - Initializing the bar chart view - 8-10-2023 - 4:40:25
+BarChartView - Updating the bar chart view - 8-10-2023 - 4:40:25
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Saving vote for Manzana - 8-10-2023 - 4:40:25
+VotesController - Vote saved - 8-10-2023 - 4:40:25
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:40:25
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:40:25
+BarChartView - Updating the bar chart view - 8-10-2023 - 4:40:25
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Saving vote for Pera - 8-10-2023 - 4:40:25
+VotesController - Vote saved - 8-10-2023 - 4:40:25
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:40:25
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:40:25
+BarChartView - Updating the bar chart view - 8-10-2023 - 4:40:25
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Saving vote for Pera - 8-10-2023 - 4:40:25
+VotesController - Vote saved - 8-10-2023 - 4:40:25
+VotesCountView - Updating the votes count view - 8-10-2023 - 4:40:25
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:40:25
+BarChartView - Updating the bar chart view - 8-10-2023 - 4:40:25
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 4:40:25
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 4:40:25
+Main - Initializing the main view - 8-10-2023 - 16:38:44
+VotesCountView - Initializing the votes count view - 8-10-2023 - 16:38:44
+VotesCountView - Updating the votes count view - 8-10-2023 - 16:38:44
+BrokerProductsRepository - Getting the name of all products - 8-10-2023 - 16:38:44
+BrokerResultsRepository - Getting votes for Sandia - 8-10-2023 - 16:38:44
+BrokerResultsRepository - Getting votes for Manzana - 8-10-2023 - 16:38:44
+BrokerResultsRepository - Getting votes for Pera - 8-10-2023 - 16:38:44
+Main - Initializing the main view - 17-10-2023 - 17:11:41
+Main - Initializing the main view - 17-10-2023 - 17:22:13
+Main - Initializing the main view - 17-10-2023 - 17:41:43
+VotesCountView - Initializing the votes count view - 17-10-2023 - 17:41:43
+VotesCountView - Updating the votes count view - 17-10-2023 - 17:41:43
+BrokerProductsRepository - Getting the name of all products - 17-10-2023 - 17:41:43
+Main - Initializing the main view - 19-10-2023 - 17:42:44
+VotesCountView - Initializing the votes count view - 19-10-2023 - 17:42:44
+VotesCountView - Updating the votes count view - 19-10-2023 - 17:42:44
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 17:42:44
+Main - Initializing the main view - 19-10-2023 - 17:52:22
+VotesCountView - Initializing the votes count view - 19-10-2023 - 17:52:22
+VotesCountView - Updating the votes count view - 19-10-2023 - 17:52:22
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 17:52:22
+BrokerResultsRepository - Getting votes for null - 19-10-2023 - 17:52:22
+Main - Initializing the main view - 19-10-2023 - 18:3:0
+VotesCountView - Initializing the votes count view - 19-10-2023 - 18:3:0
+VotesCountView - Updating the votes count view - 19-10-2023 - 18:3:0
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 18:3:0
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 18:3:0
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 18:3:0
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 18:3:0
+BrokerResultsRepository - Saving vote for Sandia - 19-10-2023 - 18:3:0
+VotesController - Vote saved - 19-10-2023 - 18:3:0
+VotesCountView - Updating the votes count view - 19-10-2023 - 18:3:0
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 18:3:0
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 18:3:0
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 18:3:0
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 18:3:0
+Main - Initializing the main view - 19-10-2023 - 19:17:40
+VotesCountView - Initializing the votes count view - 19-10-2023 - 19:17:40
+VotesCountView - Updating the votes count view - 19-10-2023 - 19:17:40
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 19:17:40
+BrokerResultsRepository - Getting votes for null - 19-10-2023 - 19:17:40
+Main - Initializing the main view - 19-10-2023 - 19:35:39
+VotesCountView - Initializing the votes count view - 19-10-2023 - 19:35:39
+VotesCountView - Updating the votes count view - 19-10-2023 - 19:35:39
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 19:35:39
+BrokerResultsRepository - Getting votes for null - 19-10-2023 - 19:35:39
+Main - Initializing the main view - 19-10-2023 - 19:55:54
+VotesCountView - Initializing the votes count view - 19-10-2023 - 19:55:54
+VotesCountView - Updating the votes count view - 19-10-2023 - 19:55:54
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 19:55:54
+BrokerResultsRepository - Getting votes for null - 19-10-2023 - 19:55:54
+Main - Initializing the main view - 19-10-2023 - 20:1:29
+VotesCountView - Initializing the votes count view - 19-10-2023 - 20:1:29
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:1:29
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:1:29
+BrokerResultsRepository - Getting votes for null - 19-10-2023 - 20:1:29
+Main - Initializing the main view - 19-10-2023 - 20:3:21
+VotesCountView - Initializing the votes count view - 19-10-2023 - 20:3:21
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:3:21
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:3:21
+BrokerResultsRepository - Getting votes for null - 19-10-2023 - 20:3:21
+Main - Initializing the main view - 19-10-2023 - 20:8:51
+VotesCountView - Initializing the votes count view - 19-10-2023 - 20:8:51
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:8:51
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Saving vote for Sandia - 19-10-2023 - 20:8:51
+VotesController - Vote saved - 19-10-2023 - 20:8:51
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:8:51
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:8:51
+VotesCountView - Opening the bar chart window - 19-10-2023 - 20:8:51
+BarChartView - Initializing the bar chart view - 19-10-2023 - 20:8:51
+BarChartView - Updating the bar chart view - 19-10-2023 - 20:8:51
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:8:51
+VotesCountView - Opening the pie chart window - 19-10-2023 - 20:8:51
+PieChartView - Initializing the bar chart view - 19-10-2023 - 20:8:51
+PieChartView - Updating the pie chart view - 19-10-2023 - 20:8:51
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:8:51
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:8:51
+Main - Initializing the main view - 19-10-2023 - 20:21:59
+VotesCountView - Initializing the votes count view - 19-10-2023 - 20:21:59
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:21:59
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Saving vote for Sandia - 19-10-2023 - 20:21:59
+VotesController - Vote saved - 19-10-2023 - 20:21:59
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:21:59
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Saving vote for Sandia - 19-10-2023 - 20:21:59
+VotesController - Vote saved - 19-10-2023 - 20:21:59
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:21:59
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Saving vote for Manzana - 19-10-2023 - 20:21:59
+VotesController - Vote saved - 19-10-2023 - 20:21:59
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:21:59
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Saving vote for Pera - 19-10-2023 - 20:21:59
+VotesController - Vote saved - 19-10-2023 - 20:21:59
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:21:59
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:21:59
+VotesCountView - Opening the bar chart window - 19-10-2023 - 20:21:59
+BarChartView - Initializing the bar chart view - 19-10-2023 - 20:21:59
+BarChartView - Updating the bar chart view - 19-10-2023 - 20:21:59
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:21:59
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:21:59
+Main - Initializing the main view - 19-10-2023 - 20:35:36
+VotesCountView - Initializing the votes count view - 19-10-2023 - 20:35:36
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:35:36
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Saving vote for Sandia - 19-10-2023 - 20:35:36
+VotesController - Vote saved - 19-10-2023 - 20:35:36
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:35:36
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:35:36
+VotesCountView - Opening the bar chart window - 19-10-2023 - 20:35:36
+BarChartView - Initializing the bar chart view - 19-10-2023 - 20:35:36
+BarChartView - Updating the bar chart view - 19-10-2023 - 20:35:36
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:35:36
+VotesCountView - Opening the pie chart window - 19-10-2023 - 20:35:36
+PieChartView - Initializing the bar chart view - 19-10-2023 - 20:35:36
+PieChartView - Updating the pie chart view - 19-10-2023 - 20:35:36
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Saving vote for Manzana - 19-10-2023 - 20:35:36
+VotesController - Vote saved - 19-10-2023 - 20:35:36
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:35:36
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:35:36
+BarChartView - Updating the bar chart view - 19-10-2023 - 20:35:36
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:35:36
+PieChartView - Updating the pie chart view - 19-10-2023 - 20:35:36
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Saving vote for Pera - 19-10-2023 - 20:35:36
+VotesController - Vote saved - 19-10-2023 - 20:35:36
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:35:36
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:35:36
+BarChartView - Updating the bar chart view - 19-10-2023 - 20:35:36
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:35:36
+PieChartView - Updating the pie chart view - 19-10-2023 - 20:35:36
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:35:36
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:35:36
+Main - Initializing the main view - 19-10-2023 - 20:44:17
+VotesCountView - Initializing the votes count view - 19-10-2023 - 20:44:17
+VotesCountView - Updating the votes count view - 19-10-2023 - 20:44:17
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:44:17
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:44:17
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:44:17
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:44:17
+VotesCountView - Opening the bar chart window - 19-10-2023 - 20:44:17
+BarChartView - Initializing the bar chart view - 19-10-2023 - 20:44:17
+BarChartView - Updating the bar chart view - 19-10-2023 - 20:44:17
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 20:44:17
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 20:44:17
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 20:44:17
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 20:44:17
+Main - Initializing the main view - 19-10-2023 - 21:38:31
+VotesCountView - Initializing the votes count view - 19-10-2023 - 21:38:31
+VotesCountView - Updating the votes count view - 19-10-2023 - 21:38:31
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 21:38:31
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 21:38:31
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 21:38:31
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 21:38:31
+Main - Initializing the main view - 19-10-2023 - 22:12:22
+VotesCountView - Initializing the votes count view - 19-10-2023 - 22:12:22
+VotesCountView - Updating the votes count view - 19-10-2023 - 22:12:22
+BrokerProductsRepository - Getting the name of all products - 19-10-2023 - 22:12:22
+BrokerResultsRepository - Getting votes for Sandia - 19-10-2023 - 22:12:22
+BrokerResultsRepository - Getting votes for Manzana - 19-10-2023 - 22:12:22
+BrokerResultsRepository - Getting votes for Pera - 19-10-2023 - 22:12:22

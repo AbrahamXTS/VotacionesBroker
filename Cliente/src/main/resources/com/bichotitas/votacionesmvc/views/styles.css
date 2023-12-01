@@ -1,0 +1,40 @@
+Button {
+    -fx-background-color: #A4C2F4;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20;
+    -fx-background-radius: 10;
+}
+
+Button:hover {
+    -fx-background-color: #B8D4F8;
+}
+
+#rootVotes {
+    -fx-alignment: center;
+    -fx-background-color: #70a1ff;
+    -fx-padding: 25;
+
+    -fx-min-width: 450;
+    -fx-min-height: 450;
+}
+
+#productsContainer {
+    -fx-alignment: center;
+    -fx-spacing: 50;
+}
+
+#product {
+    -fx-alignment: center;
+    -fx-spacing: 10;
+}
+
+#openChartsButtonContainer {
+    -fx-alignment: center;
+    -fx-start-margin: 30;
+    -fx-spacing: 15;
+}
+
+.chart-bar {
+    -fx-bar-fill: #70a1ff;
+}

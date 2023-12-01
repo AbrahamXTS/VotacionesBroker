@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox fx:id="rootVotes" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.bichotitas.votacionesmvc.views.VotesCountView">
+    <HBox fx:id="productsContainer"/>
+
+    <VBox fx:id="openChartsButtonContainer">
+        <Button fx:id="barChartButton" onAction="#openBarChart" text="Ver resultados en gráfica de barras"/>
+        <Button fx:id="pieChartButton" onAction="#openPieChart" text="Ver resultados en gráfica de pastel"/>
+        
+        <VBox.margin>
+            <Insets top="30.0"/>
+        </VBox.margin>
+    </VBox>
+</VBox>

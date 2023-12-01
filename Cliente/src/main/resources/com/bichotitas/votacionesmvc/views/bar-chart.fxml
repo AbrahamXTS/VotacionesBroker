@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+
+<VBox
+        fx:controller="com.bichotitas.votacionesmvc.views.BarChartView"
+        xmlns:fx="http://javafx.com/fxml/1"
+        xmlns="http://javafx.com/javafx/17.0.2-ea"
+>
+    <HBox fx:id="barChartContainer"></HBox>
+</VBox>

@@ -1,0 +1,13 @@
+
+g	java:S112a"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÌèüÙ¾1
+g	java:S112x"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÌèüÙ¾1
+g
+java:S1192f"JDefine a constant instead of duplicating this literal "variables" 3 times.(®·…Ç8ò£äˆ»1
+e
+java:S1192""IDefine a constant instead of duplicating this literal "servicio" 4 times.(Ì¿›8ò£äˆ»1
+c
+java:S1192;"FDefine a constant instead of duplicating this literal "valor" 6 times.(‹ÁáĞ8ò£äˆ»1
+c
+java:S1192"GDefine a constant instead of duplicating this literal "valor1" 4 times.(¾´à8ò£äˆ»1
+h
+java:S1192#"KDefine a constant instead of duplicating this literal "respuestas" 5 times.(»ÊÖª8´›Ê¬º1
